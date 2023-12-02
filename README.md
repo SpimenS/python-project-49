@@ -3,3 +3,5 @@
 
 <a href="https://codeclimate.com/github/SpimenS/python-project-49/maintainability"><img 
 src="https://api.codeclimate.com/v1/badges/2101b62a1eaa97209a2a/maintainability" /></a>
+
+https://asciinema.org/a/gUsGucbdKooNGQOmFvTYU4a6t
