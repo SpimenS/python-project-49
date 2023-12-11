@@ -5,7 +5,7 @@ from brain_games.cli import welcome_user
 
 
 def get_gcd():
-    name =  welcome_user()
+    name = welcome_user()
     print('Find the greatest common divisor of given numbers.')
     i = 0
     a = 0
@@ -36,4 +36,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-

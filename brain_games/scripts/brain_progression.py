@@ -5,7 +5,7 @@ from brain_games.cli import welcome_user
 
 
 def get_progression():
-    name =  welcome_user()
+    name = welcome_user()
     print('What number is missing in the progression?')
     i = 0
     while i <= 2:

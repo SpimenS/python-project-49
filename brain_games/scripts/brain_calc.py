@@ -5,7 +5,7 @@ from brain_games.cli import welcome_user
 
 
 def get_calc():
-    name =  welcome_user()
+    name = welcome_user()
     print('What is the result of the expression?')
     i = 0
     m_oper = ['+', '-', '*']

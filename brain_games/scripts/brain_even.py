@@ -5,7 +5,7 @@ from brain_games.cli import welcome_user
 
 
 def is_even():
-    name =  welcome_user()
+    name = welcome_user()
     print('Answer "yes" if the number is even, otherwise answer "no".')
     i = 0
     while i <= 2:
